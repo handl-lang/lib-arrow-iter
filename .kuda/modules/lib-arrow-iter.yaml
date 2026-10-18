@@ -1,0 +1,21 @@
+name: lib-arrow-iter
+path: src/lib.rs
+purpose: lib-arrow-iter
+api:
+- name: ARROW_ITER_HNL
+  kind: const
+  file: src/lib.rs
+  line: 6
+  module: lib-arrow-iter
+deps: []
+notes: ''
+verify:
+- src/lib.rs
+provenance:
+  files:
+  - src/lib.rs
+  hashes:
+  - 03d06b05e49ef8c272f199daf45782ab104c9d43
+  commit_sha: 64d85bdf24eb63484423349bb405df828a32207a
+  generated_at: '1792281152'
+  generator: kuda-template/0.1.0
