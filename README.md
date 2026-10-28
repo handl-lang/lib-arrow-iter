@@ -13,3 +13,7 @@ src/lib.rs      const-only crate
 pkg.hnl         { modules: ["arrow_iter"] }
 ci.sh           bupha entry
 ```
+
+## License
+
+MIT.
