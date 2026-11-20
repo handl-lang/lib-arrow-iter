@@ -1,1 +1,8 @@
-{ modules: ["arrow_iter"] }
+{
+  modules: ["arrow_iter"],
+  name: "arrow-iter",
+  description: "Arrow iteration over sequences — Handl stdlib port.",
+  license: "MIT",
+  keywords: ["arrow", "iteration", "stdlib", "handl"],
+  homepage: "https://github.com/handl-lang/lib-arrow-iter",
+}
