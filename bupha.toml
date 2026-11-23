@@ -6,7 +6,7 @@
 
 [[repos]]
 name = "handl-lang/lib-arrow-iter"
-dir = "/home/luis/GitHub/handl-lang/lib-arrow-iter"
+dir = "~/GitHub/handl-lang/lib-arrow-iter"
 branch = "refs/heads/main"
   [repos.runner]
   kind = "script"
